@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /ie-tree-quotes/thank-you.html
+Disallow: /ie-junk-quotes/thank-you.html
+Disallow: /ie-site-previews/
+
+Sitemap: https://bryanbyfield0-creator.github.io/ie-tree-quotes/sitemap.xml
+Sitemap: https://bryanbyfield0-creator.github.io/ie-junk-quotes/sitemap.xml
